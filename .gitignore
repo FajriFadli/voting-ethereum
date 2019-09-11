@@ -1,0 +1,9 @@
+node_modules
+endpoint.txt
+mnemonic.txt
+result.txt
+interface.txt
+config/production.json
+config/default.json
+client/src/web3/web3.js
+client/src/web3.js

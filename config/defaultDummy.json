@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongoURI",
+  "jwtSecret": "jwtSecret",
+  "adminEmail": "adminEmail@domain.com",
+  "emailPass": "PassAdminEmail"
+}
